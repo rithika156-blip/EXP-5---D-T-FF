@@ -166,10 +166,6 @@ The design was compiled and simulated using Synopsys VCS, and the functionality 
 <img width="1920" height="1080" alt="Screenshot 2026-11-23 220418" src="https://github.com/user-attachments/assets/5a4a3b50-f915-4a9f-8c68-ded32c942180" />
 <img width="1920" height="1080" alt="Screenshot 2026-11-23 220558" src="https://github.com/user-attachments/assets/33a4b7eb-2579-4b54-8e9c-74486a377053" />
 
-
-
-
-
 ## Result
 
 Thus, the D Flip-Flop and T Flip-Flop were designed, implemented using Verilog HDL, successfully simulated using Synopsys VCS, and verified using Synopsys DVE.
