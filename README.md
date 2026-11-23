@@ -173,4 +173,4 @@ The design was compiled and simulated using Synopsys VCS, and the functionality 
 ## Result
 
 Thus, the D Flip-Flop and T Flip-Flop were designed, implemented using Verilog HDL, successfully simulated using Synopsys VCS, and verified using Synopsys DVE.
-```
+
