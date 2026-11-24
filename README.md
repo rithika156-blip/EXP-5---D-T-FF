@@ -47,7 +47,6 @@ module tff (
     end
 endmodule
 
-```
 ## Testbench Program
 // gedit tb5.v
  
@@ -163,8 +162,9 @@ Q(next) = T ⊕ Q   (T Flip-Flop)
 The design was compiled and simulated using Synopsys VCS, and the functionality was verified using DVE waveform analysis, matching the expected truth table.
 
 **## Output**
-<img width="1920" height="1080" alt="Screenshot 2026-11-23 220418" src="https://github.com/user-attachments/assets/5a4a3b50-f915-4a9f-8c68-ded32c942180" />
-<img width="1920" height="1080" alt="Screenshot 2026-11-23 220558" src="https://github.com/user-attachments/assets/33a4b7eb-2579-4b54-8e9c-74486a377053" />
+<img width="1920" height="1080" alt="Screenshot 2026-11-23 220418" src="https://github.com/user-attachments/assets/0249d18f-5bb2-4907-8f13-1934cd95c7fc" />
+<img width="1920" height="1080" alt="Screenshot 2026-11-23 220558" src="https://github.com/user-attachments/assets/dd452661-a40d-4965-94aa-61fd009695cb" />
+
 
 ## Result
 
